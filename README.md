@@ -28,7 +28,7 @@ A estrutura do repositório é simples e direta:
 .
 ├── notebooks/
 │   └── AluraStoreBrFinal.ipynb # O coração da análise: código completo, pré-processamento,
-│                               # visualizações e relatórios.
+├── imagens                     # visualizações gráfica dos relatórios.
 ├── .gitignore                  # Regras para ignorar arquivos temporários e de configuração.
 └── README.md                   # Este guia de projeto que você está lendo!
 ```
